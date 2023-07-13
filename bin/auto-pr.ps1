@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "TronicLabs/scoop_bucket_erb_win:main"
+    [String]$upstream = "TronicLabs/troniclabs-buckets:main"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
