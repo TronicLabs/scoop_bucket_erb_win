@@ -1,5 +1,5 @@
 # testing scoop bukets from Scoop Bucket Template
-
+![example workflow](https://github.com/TronicLabs/troniclabs-buckets/workflows/excavator.yml/badge.svg)
 <!-- Uncomment the following line after replacing placeholders -->
 <!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
 
@@ -19,5 +19,5 @@ To make a new manifest contribution, please read the [Contributing Guide](https:
 
 #### To use this template
 
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
+- [x] Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
+- [x] Enable GitHub Actions for this repository.
