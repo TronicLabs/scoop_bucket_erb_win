@@ -1,5 +1,5 @@
 # testing scoop bukets from Scoop Bucket Template
-![example workflow](https://github.com/TronicLabs/troniclabs-buckets/workflows/excavator.yml/badge.svg)
+![example workflow](https://github.com/TronicLabs/troniclabs-buckets/actions/workflows/excavator.yml/badge.svg)
 <!-- Uncomment the following line after replacing placeholders -->
 <!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
 
